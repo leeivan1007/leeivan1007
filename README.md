@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-### Do you want to to be an AI control and decision engineer ? 
-
-### Join us! Let's just click here 👉 https://github.com/leeivan1007/DinoRunTutorial 
-
-### If you like it. Please give me a star 🙏
+### My name is Ivan.
 
 <!--
 **leeivan1007/leeivan1007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
